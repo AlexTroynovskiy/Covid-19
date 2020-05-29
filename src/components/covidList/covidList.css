@@ -1,0 +1,14 @@
+.table {
+  padding: 20px;
+}
+
+.item {
+  position: relative;
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  background-color: grey;
+  border: 1px solid #444;
+  font-size: 18px;
+}
